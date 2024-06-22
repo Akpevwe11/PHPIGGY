@@ -1,0 +1,19 @@
+{
+    "name": "praise/phpiggy",
+    "description": "A simple php mvc framework",
+    "type": "library",
+    "license": "MIIT",
+    "autoload": {
+        "psr-4": {
+            "Praise\\Phpiggy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akpevwe",
+            "email": "essiakpevwepraise@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
