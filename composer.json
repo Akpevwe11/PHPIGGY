@@ -5,7 +5,8 @@
     "license": "MIIT",
     "autoload": {
         "psr-4": {
-            "Praise\\Phpiggy\\": "src/"
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
         }
     },
     "authors": [
