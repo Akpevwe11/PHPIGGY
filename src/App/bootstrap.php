@@ -8,8 +8,6 @@ use Framework\App;
 
 use App\Controllers\HomeController;
 
-echo HomeController::class;
-
 $app = new App();
 
 $app->get('/', [HomeController::class, 'home']);
